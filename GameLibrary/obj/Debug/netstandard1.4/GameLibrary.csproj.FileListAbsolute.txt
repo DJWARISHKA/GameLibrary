@@ -1,0 +1,8 @@
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameLibrary\bin\Debug\netstandard1.4\GameLibrary.deps.json
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameLibrary\bin\Debug\netstandard1.4\GameLibrary.dll
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameLibrary\bin\Debug\netstandard1.4\GameLibrary.pdb
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameLibrary\obj\Debug\netstandard1.4\GameLibrary.csprojAssemblyReference.cache
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameLibrary\obj\Debug\netstandard1.4\GameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameLibrary\obj\Debug\netstandard1.4\GameLibrary.AssemblyInfo.cs
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameLibrary\obj\Debug\netstandard1.4\GameLibrary.dll
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameLibrary\obj\Debug\netstandard1.4\GameLibrary.pdb

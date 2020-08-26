@@ -1,0 +1,16 @@
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\bin\Debug\GameBasicATest.dll
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\bin\Debug\GameBasicATest.pdb
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\bin\Debug\GameLibrary.dll
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\bin\Debug\GameLibrary.pdb
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\obj\Debug\GameTest.csprojAssemblyReference.cache
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\obj\Debug\GameTest.csproj.CoreCompileInputs.cache
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\obj\Debug\GameTest.csproj.CopyComplete
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\obj\Debug\GameBasicATest.dll
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\GameBasicATest\obj\Debug\GameBasicATest.pdb

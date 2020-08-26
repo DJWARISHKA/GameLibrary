@@ -1,0 +1,10 @@
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\Game\bin\Debug\Game.exe.config
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\Game\bin\Debug\Game.exe
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\Game\bin\Debug\Game.pdb
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\Game\bin\Debug\GameLibrary.dll
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\Game\bin\Debug\GameLibrary.pdb
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\Game\obj\Debug\Game.csproj.CopyComplete
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\Game\obj\Debug\Game.exe
+C:\Users\НакуренныйВолшебник\source\repos\GameLibrary\Game\obj\Debug\Game.pdb
